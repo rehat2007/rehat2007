@@ -4,7 +4,7 @@
 
 # Hi, I'm Rehat Islam 👋
 
-### CS Student | Web Developer
+### Full Stack Web Developer | CS student
 
 [![Profile views](https://komarev.com/ghpvc/?username=rehat2007&style=flat-square&color=0e75b6)](https://github.com/rehat2007)
 [![GitHub followers](https://img.shields.io/github/followers/rehat2007?style=flat-square&logo=github&label=Followers)](https://github.com/rehat2007?tab=followers)
@@ -46,13 +46,6 @@ A market-price comparison app that helps users explore product prices across dif
 
 **Built with:** Next.js · React · Tailwind CSS · MongoDB
 
-### 🧭 WanderLast
-
-A tourism website project focused on helping people explore destinations and plan their next trip.
-
-[![WanderLast on GitHub](https://img.shields.io/badge/Source%20Code-View%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rehat2007)
-
-**Exploring:** Next.js · React · Tailwind CSS
 
 > Replace the WanderLast GitHub link above with the actual repository URL when you publish the project.
 

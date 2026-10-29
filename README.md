@@ -1,34 +1,23 @@
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:3A506B&height=190&section=header&text=Better%20Code%2C%20Bigger%20Dreams&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Rehat%20Islam%20%7C%20CS%20Student%20%7C%20Web%20Developer&descAlignY=60&descSize=15" alt="Profile banner" width="100%" />
 
-::: {align="center"}
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:3A506B&height=190&section=header&text=Better%20Code%2C%20Bigger%20Dreams&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Rehat%20Islam%20%7C%20CS%20Student%20%7C%20Web%20Developer&descAlignY=60&descSize=15" alt="Profile banner" width="100%" />{=html}
+<h1> Hi, I'm Rehat Islam 👋 </h1>
 
-{=html}
-<h1>
 
-Hi, I'm Rehat Islam 👋
-{=html}
-</h1>
+<h3> Full Stack Web Developer | CS student </h3>
 
-{=html}
-<h3>
 
-CS Student \| Web Developer
-{=html}
-</h3>
-
-{=html}
 <p>
 
 <a href="https://github.com/rehat2007">{=html}
 <img src="https://komarev.com/ghpvc/?username=rehat2007&style=flat-square&color=0e75b6" alt="Profile views" />{=html}
 </a>{=html}
 <a href="https://github.com/rehat2007?tab=followers">{=html}
-<img src="https://img.shields.io/github/followers/rehat2007?style=flat-square&logo=github&label=Followers" alt="GitHub followers" />{=html}
-</a>{=html}
-```{=html}
+<img src="https://img.shields.io/github/followers/rehat2007?style=flat-square&logo=github&label=Followers" alt="GitHub followers" />
+</a>
+
 </p>
-```
+
 :::👨‍💻 About Me
 I'm a Computer Science student in Bangladesh who enjoys building useful,
 user-friendly web applications. I learn by building projects, solving

@@ -1,32 +1,31 @@
 
-<!-- Profile README for https://github.com/rehat2007 -->
-<!-- Create a public repository named exactly: rehat2007 -->
-::: {align="center"}
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:3A506B&height=190&section=header&text=Better%20Code%2C%20Bigger%20Dreams&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Rehat%20Islam%20%7C%20CS%20Student%20%7C%20Web%20Developer&descAlignY=60&descSize=15" alt="Profile banner" width="100%" />`{=html}
 
-```{=html}
+::: {align="center"}
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:3A506B&height=190&section=header&text=Better%20Code%2C%20Bigger%20Dreams&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Rehat%20Islam%20%7C%20CS%20Student%20%7C%20Web%20Developer&descAlignY=60&descSize=15" alt="Profile banner" width="100%" />{=html}
+
+{=html}
 <h1>
-```
+
 Hi, I'm Rehat Islam 👋
-```{=html}
+{=html}
 </h1>
-```
-```{=html}
+
+{=html}
 <h3>
-```
+
 CS Student \| Web Developer
-```{=html}
+{=html}
 </h3>
-```
-```{=html}
+
+{=html}
 <p>
-```
-`<a href="https://github.com/rehat2007">`{=html}
-`<img src="https://komarev.com/ghpvc/?username=rehat2007&style=flat-square&color=0e75b6" alt="Profile views" />`{=html}
-`</a>`{=html}
-`<a href="https://github.com/rehat2007?tab=followers">`{=html}
-`<img src="https://img.shields.io/github/followers/rehat2007?style=flat-square&logo=github&label=Followers" alt="GitHub followers" />`{=html}
-`</a>`{=html}
+
+<a href="https://github.com/rehat2007">{=html}
+<img src="https://komarev.com/ghpvc/?username=rehat2007&style=flat-square&color=0e75b6" alt="Profile views" />{=html}
+</a>{=html}
+<a href="https://github.com/rehat2007?tab=followers">{=html}
+<img src="https://img.shields.io/github/followers/rehat2007?style=flat-square&logo=github&label=Followers" alt="GitHub followers" />{=html}
+</a>{=html}
 ```{=html}
 </p>
 ```

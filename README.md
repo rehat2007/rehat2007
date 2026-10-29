@@ -47,13 +47,7 @@ A market-price comparison app that helps users explore product prices across dif
 **Built with:** Next.js · React · Tailwind CSS · MongoDB
 
 
-> Replace the WanderLast GitHub link above with the actual repository URL when you publish the project.
-
 ## 📊 GitHub Stats
-
-![GitHub statistics](https://github-readme-stats.vercel.app/api?username=rehat2007&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github)
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rehat2007&layout=compact&hide_border=true&theme=tokyonight)
 
 ![GitHub contribution streak](https://streak-stats.demolab.com?user=rehat2007&theme=tokyonight&hide_border=true)
 
